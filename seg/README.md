@@ -1,0 +1,1 @@
+使用hadoop进行中文分词。其中中文分词部分使用的是IKSegmenter.
